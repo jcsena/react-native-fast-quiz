@@ -41,10 +41,12 @@ A react native overnight application about local fast quiz and simple.
 
 ### Screen Shot
 
-![](https://github.com/jcsena/react-native-fast-quiz/blob/master/screenshot/edash.png?raw=true) ![](https://github.com/jcsena/react-native-fast-quiz/blob/master/screenshot/qn.png?raw=true) 
+![alt text](https://github.com/jcsena/react-native-fast-quiz/blob/master/screenshot/edash.png?raw=true "Dash")
 
-Review the quiz is very easy ...
-![](https://github.com/jcsena/react-native-fast-quiz/blob/master/screenshot/fs.png?raw=true) ![](https://github.com/jcsena/react-native-fast-quiz/blob/master/screenshot/rq.png?raw=true) 
+![alt text](https://github.com/jcsena/react-native-fast-quiz/blob/master/screenshot/qn.png?raw=true "Question") 
 
-Emoji feedback :)
-![](https://github.com/jcsena/react-native-fast-quiz/blob/master/screenshot/dash.png?raw=true)
+
+![](https://github.com/jcsena/react-native-fast-quiz/blob/master/screenshot/fs.png?raw=true "Review the quiz is very easy ...") 
+![](https://github.com/jcsena/react-native-fast-quiz/blob/master/screenshot/rq.png?raw=true) 
+
+![](https://github.com/jcsena/react-native-fast-quiz/blob/master/screenshot/dash.png?raw=true "Emoji feedback :)")
