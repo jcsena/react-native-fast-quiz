@@ -1,0 +1,36 @@
+{
+  "name": "FastQuiz",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "eslint": "^5.1.0",
+    "moment": "^2.22.2",
+    "prop-types": "^15.5.10",
+    "react": "16.4.1",
+    "react-native": "0.56.0",
+    "react-native-countdown-circle": "^3.0.0",
+    "react-native-picker-select": "^4.0.0",
+    "react-native-progress-bar-animated": "^1.0.6",
+    "react-navigation": "^2.8.0",
+    "react-navigation-redux-helpers": "^2.0.3",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^5.10.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "babel-jest": "23.4.0",
+    "babel-preset-react-native": "^5",
+    "flow-bin": "^0.75.0",
+    "jest": "23.4.1",
+    "react-test-renderer": "16.4.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
