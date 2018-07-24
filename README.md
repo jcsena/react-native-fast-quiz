@@ -4,7 +4,7 @@ A react native overnight application about local fast quiz and simple.
 
 ## Technologies
 * react-natve 0.56
-* react-nativation
+* react-navigation
 * redux 
 * redux-persit //local storage histories quiz
 * [All packages](https://github.com/jcsena/react-native-fast-quiz/blob/master/package.json)
@@ -12,16 +12,16 @@ A react native overnight application about local fast quiz and simple.
 
 ## installation
 
-```console
-~$ git clone https://github.com/jcsena/react-native-fast-quiz.git
-~$ cd react-native-fast-quiz
-~$ yarn install
-~$ react-native run-ios || run-android
+```
+$ git clone https://github.com/jcsena/react-native-fast-quiz.git
+$ cd react-native-fast-quiz
+$ yarn install
+$ react-native run-ios || run-android
 ```
 
 ## Config 
 
-./src/questions/index.js set your quetions for your local fast quiz
+./src/questions/index.js set your questions for your local fast quiz
 
 ### Template
 ```js
@@ -44,7 +44,6 @@ A react native overnight application about local fast quiz and simple.
 ![alt text](https://github.com/jcsena/react-native-fast-quiz/blob/master/screenshot/edash.png?raw=true "Dash")
 
 ![alt text](https://github.com/jcsena/react-native-fast-quiz/blob/master/screenshot/qn.png?raw=true "Question") 
-
 
 ![](https://github.com/jcsena/react-native-fast-quiz/blob/master/screenshot/fs.png?raw=true "Review the quiz is very easy ...") 
 ![](https://github.com/jcsena/react-native-fast-quiz/blob/master/screenshot/rq.png?raw=true) 
